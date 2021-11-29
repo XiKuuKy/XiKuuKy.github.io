@@ -1,0 +1,84 @@
+body {
+  background-color: #DAD2D2;
+}
+
+body p {
+  font-family: 'M PLUS 2', sans-serif;
+  font-weight: 200;
+  color: #3A3535;
+}
+
+a.nav-links {
+  color: SeaGreen;
+}
+
+nav {
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+#name-title {
+  text-align: center;
+  font-family: 'M PLUS 2', sans-serif;
+  font-weight: 300;
+}
+
+#smon-pic {
+  height: 500px;
+  display: block;
+  margin: auto;
+}
+
+main p {
+  text-align: center;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  font-family: monospace;
+  background-color: Black;
+  padding: 0;
+  margin: 0;
+  opacity: 75%;
+}
+
+footer p  {
+  color: White;
+  padding: 0;
+  margin: 0;
+}
+
+.side-page-text {
+  text-align: justify;
+  width: 500px;
+  word-break: break-all;
+  white-space: normal;
+}
+
+.redacted {
+  background-color: Black;
+  color: Black;
+  width: auto;
+}
+
+.blog-post p {
+  text-align: left;
+  text-indent: 20px
+}
+
+#blog {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.boat-pics {
+  height: 500px;
+}
+
+address {
+  font-style: normal;
+}
