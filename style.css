@@ -24,6 +24,7 @@ nav ul li {
   text-align: center;
   font-family: 'M PLUS 2', sans-serif;
   font-weight: 300;
+  letter-spacing: 0.4em;
 }
 
 #smon-pic {
@@ -57,6 +58,7 @@ footer p  {
   width: 500px;
   word-break: break-all;
   white-space: normal;
+  display: inline-block;
 }
 
 .redacted {
@@ -67,7 +69,7 @@ footer p  {
 
 .blog-post p {
   text-align: left;
-  text-indent: 20px
+  text-indent: 20px;
 }
 
 #blog {
@@ -85,4 +87,16 @@ address {
 
 .jawa {
   font-family: 'Noto Sans Javanese', sans-serif;
+}
+
+.bio-pic {
+  height: 300px;
+}
+
+.gallery-pic {
+  height: 600px
+}
+
+.caption {
+  font-size: 11px;
 }
