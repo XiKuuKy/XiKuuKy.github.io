@@ -1,11 +1,11 @@
 body {
-  background-color: #DAD2D2;
+  background-color: #dad2d2;
 }
 
 body p {
-  font-family: 'M PLUS 2', sans-serif;
+  font-family: "M PLUS 2", sans-serif;
   font-weight: 200;
-  color: #3A3535;
+  color: #3a3535;
 }
 
 a.nav-links {
@@ -22,7 +22,7 @@ nav ul li {
 
 #name-title {
   text-align: center;
-  font-family: 'M PLUS 2', sans-serif;
+  font-family: "M PLUS 2", sans-serif;
   font-weight: 300;
   letter-spacing: 0.4em;
 }
@@ -47,7 +47,7 @@ footer {
   opacity: 75%;
 }
 
-footer p  {
+footer p {
   color: White;
   padding: 0;
   margin: 0;
@@ -86,7 +86,7 @@ address {
 }
 
 .jawa {
-  font-family: 'Noto Sans Javanese', sans-serif;
+  font-family: "Noto Sans Javanese", sans-serif;
 }
 
 .bio-pic {
