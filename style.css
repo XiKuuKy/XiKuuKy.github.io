@@ -100,3 +100,12 @@ address {
 .caption {
   font-size: 11px;
 }
+
+#welcome-text {
+  word-spacing: 10px;
+  font-weight: bold;
+}
+
+.gallery {
+  display: inline-block;
+}
